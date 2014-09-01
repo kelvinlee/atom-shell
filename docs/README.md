@@ -14,18 +14,18 @@
 
 Modules for browser side:
 
-* [app](api/app.md)
-* [auto-updater](api/auto-updater.md)
-* [browser-window](api/browser-window.md)
-* [content-tracing](api/content-tracing.md)
-* [dialog](api/dialog.md)
-* [global-shortcut](api/global-shortcut.md)
-* [ipc (browser)](api/ipc-browser.md)
-* [menu](api/menu.md)
-* [menu-item](api/menu-item.md)
-* [power-monitor](api/power-monitor.md)
-* [protocol](api/protocol.md)
-* [tray](api/tray.md)
+* [应用](api/app.md)
+* [自动更新](api/auto-updater.md)
+* [浏览器窗体](api/browser-window.md)
+* [内容追踪](api/content-tracing.md)
+* [对话框](api/dialog.md)
+* [全局快捷键](api/global-shortcut.md)
+* [消息通知 (browser)](api/ipc-browser.md)
+* [菜单](api/menu.md)
+* [菜单元素](api/menu-item.md)
+* [电源监听模块](api/power-monitor.md)
+* [协议、协议扩展](api/protocol.md)
+* [托盘](api/tray.md)
 
 Modules for web page:
 
